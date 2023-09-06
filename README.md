@@ -1,9 +1,6 @@
-[![MasterHead]([https://www.google.com/search?q=gif+banner+code&tbm=isch&chips=q:gif+banner+code,online_chips:github:i10prjcKVkk%3D&hl=en&sa=X&ved=2ahUKEwjxx_7kqJWBAxVmL1kFHTiDD_kQ4lYoAXoECAEQNw&biw=1903&bih=955#imgrc=sZ8iZfHlRHEnbM](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifs.alphacoders.com%2Fgifs%2Fview%2F36013&psig=AOvVaw0zW1Z1-jqCz8Ylb9b0PvDa&ust=1694067132892000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCMjl_v6plYEDFQAAAAAdAAAAABAE)
-)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Meraz Hossain</h1>
 <h3 align="center">A passionate frontend developer from NYC</h3>
-<img align="right" alt="Coding" width="400" src="![image](https://github.com/meraz423/meraz423/assets/114711536/9fe1f67a-5655-4292-815a-3beacf1329a1)
-">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meraz423&label=Profile%20views&color=0e75b6&style=flat" alt="meraz423" /> </p>
 
